@@ -120,8 +120,8 @@ Open notebooks in sequence: `01` → `02` → `03` → `04`
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub:   https://github.com/jalebi-007
+- LinkedIn: https://www.linkedin.com/in/md-affan-a62211230
 
 ---
 
